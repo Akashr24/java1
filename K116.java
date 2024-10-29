@@ -33,7 +33,5 @@ public class K116 {
 		r1.display();}}				// object.method
 
 
-//This program has 1 interface, 1 class and 1 public class
-//In interface Resizable, we declare 2 methods but no implementation.
-//In class Rectangle, we implement the interface Resizable. Here we resizeWidth() and resizeHeight()
+
 //In public class K116, we create r1, an object of class Rectangle and execute the methods on this object.
