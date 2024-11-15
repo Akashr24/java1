@@ -22,7 +22,7 @@ class Cat extends Animal {
 class Main4 {
     public static void main(String[] args) {
         Animal animal = new Dog(); 
-        Animal animal1 = new Cat();// Reference of Animal, but Dog object
+        Animal animal1 = new Cat();
         animal1.sound();
         animal.sound();
     }
